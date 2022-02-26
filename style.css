@@ -1,0 +1,39 @@
+body
+{
+    font-family: "Special Elite", cursive;
+    background-image: url("a.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.header_div
+{
+    background: azure;
+    color: orangered;
+}
+
+.header_div p{
+    font-family: "inherit" Times;
+    color: slategrey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: "Arial", sans-serif;
+    margin-top: 29px;
+    width: 129px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color:dimgrey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(235, 235, 235);
+    line-height: 2;
+    text-align: center;
+    text-shadow: 3px 3px 3px gainsboro;
+}
